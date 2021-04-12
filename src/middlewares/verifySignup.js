@@ -17,11 +17,21 @@ const checkDuplicateUsernameOrEmail = async (req, res, next) => {
 };
 
 const checkDuplicateDeliveryUsername= async (req, res, next) => {
-  console.log(req.body)
   try {
     const delivery = await Delivery.findOne({ username: req.body.username });
     if (delivery)
       return res.status(202).json({ message: `Nick "${req.body.username}", ya se encuentra en uso` });
+    next();
+  } catch (error) {
+     res.status(500).json({ message: error });
+  }
+};
+
+const checkDuplicateSucursalName= async (req, res, next) => {
+  try {
+    const name = await Delivery.findOne({ username: req.body.name });
+    if (name)
+      return res.status(202).json({ message: `Nombre "${req.body.username}", ya se encuentra en uso` });
     next();
   } catch (error) {
      res.status(500).json({ message: error });
@@ -42,4 +52,4 @@ const checkRolesExisted = (req, res, next) => {
   next();
 };
 
-export { checkDuplicateUsernameOrEmail, checkRolesExisted, checkDuplicateDeliveryUsername };
+export { checkDuplicateUsernameOrEmail, checkRolesExisted, checkDuplicateDeliveryUsername, checkDuplicateSucursalName };

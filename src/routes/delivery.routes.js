@@ -15,6 +15,9 @@ router.post(
 );
 router.get("/", authJwt.verifyToken,deliveryCtrl.getDeliverys);
 
+router.get("/list/:sucursalId", authJwt.verifyToken, deliveryCtrl.getDeliverysBySucursal);
+
+
 router.put(
   "/:deliveryId",
   [authJwt.verifyToken, authJwt.isAdmin],

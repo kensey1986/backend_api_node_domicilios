@@ -9,6 +9,9 @@ import productRoutes from "./routes/products.routes";
 import usersRoutes from "./routes/user.routes";
 import authRoutes from "./routes/auth.routes";
 import deliveryRoutes from "./routes/delivery.routes";
+import sucursalRoutes from "./routes/sucursal.routes";
+import domicilioRoutes from "./routes/domicilio.routes";
+import clienteRoutes from "./routes/cliente.routes";
 
 import { createRoles, createAdmin} from "./libs/initialSetup";
 
@@ -43,9 +46,13 @@ app.get("/", (req, res) => {
 });
 
 // Routes
+app.use("/api/auth", authRoutes);
 app.use("/api/products", productRoutes);
 app.use("/api/users", usersRoutes);
 app.use("/api/delivery", deliveryRoutes);
-app.use("/api/auth", authRoutes);
+app.use("/api/sucursal", sucursalRoutes);
+app.use("/api/domicilio", domicilioRoutes);
+app.use("/api/cliente", clienteRoutes);
+
 
 export default app;

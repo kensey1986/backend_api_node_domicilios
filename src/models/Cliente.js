@@ -1,7 +1,6 @@
 import { Schema, model } from "mongoose";
-import bcrypt from "bcryptjs";
 
-const deliverySchema = new Schema(
+const clienteSchema = new Schema(
   {
     username: {
       type: String,
@@ -9,6 +8,9 @@ const deliverySchema = new Schema(
     },
 
     name: {
+      type: String,
+    },
+    apellido: {
       type: String,
     },
 
@@ -42,10 +44,6 @@ const deliverySchema = new Schema(
       type: String,
     },
 
-    password: {
-      type: String,
-    },
-    
     sucursal: {
       type: Schema.Types.ObjectId,
       ref: "Sucursal",
@@ -57,13 +55,6 @@ const deliverySchema = new Schema(
   }
 );
 
-deliverySchema.statics.encryptPassword = async (password) => {
-  const salt = await bcrypt.genSalt(10);
-  return await bcrypt.hash(password, salt);
-};
 
-deliverySchema.statics.comparePassword = async (password, receivedPassword) => {
-  return await bcrypt.compare(password, receivedPassword);
-};
 
-export default model("Delivery", deliverySchema);
+export default model("Cliente", clienteSchema);
