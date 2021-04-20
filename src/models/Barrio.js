@@ -3,9 +3,14 @@ import { Schema, model } from "mongoose";
 
 const barrioSchema = new Schema(
   {
-    name: String,
+    name: {
+      type: String,
+    },
+    
+
   },
   {
+    timestamps: true,
     versionKey: false,
   }
 );

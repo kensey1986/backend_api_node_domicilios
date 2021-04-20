@@ -2,11 +2,6 @@ import { Schema, model } from "mongoose";
 
 const clienteSchema = new Schema(
   {
-    username: {
-      type: String,
-      unique: true,
-    },
-
     name: {
       type: String,
     },
@@ -19,15 +14,19 @@ const clienteSchema = new Schema(
     },
 
     direccion: {
-      type: Schema.Types.ObjectId,
-      ref: "Direccion",
+      type: String,
     },
 
-    barrio: {
-      type: Schema.Types.ObjectId,
-      ref: "Barrio",
-    },
-
+    barrio:  {
+        type: Schema.Types.ObjectId,
+        ref: "Barrio",
+      },
+    
+      barrios: [
+        {
+          type: Object
+        },
+      ],
     nacimiento: {
       type: Date,
     },
@@ -44,10 +43,6 @@ const clienteSchema = new Schema(
       type: String,
     },
 
-    sucursal: {
-      type: Schema.Types.ObjectId,
-      ref: "Sucursal",
-    },
   },
   {
     timestamps: true,

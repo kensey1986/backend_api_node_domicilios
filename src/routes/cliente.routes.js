@@ -9,10 +9,10 @@ router.post(
   [
     authJwt.verifyToken,
     authJwt.isAdmin,
-    
   ],
   clienteCtrl.createCliente
 );
+
 router.get("/", authJwt.verifyToken, clienteCtrl.getClientes);
 
 

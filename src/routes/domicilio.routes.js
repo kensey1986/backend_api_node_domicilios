@@ -15,4 +15,10 @@ router.post(
 
 router.get("/", authJwt.verifyToken, domicilioCtrl.getDomicilios);
 
+router.put(
+  "/:domicilioId",
+  [authJwt.verifyToken, authJwt.isAdmin],
+  domicilioCtrl.updateDomicilioById
+);
+
 export default router;

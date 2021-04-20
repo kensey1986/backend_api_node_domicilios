@@ -15,6 +15,10 @@ const domicilioSchema = new Schema(
       type: Schema.Types.ObjectId,
       ref: "Sucursal",
     },
+    cliente: {
+      type: Schema.Types.ObjectId,
+      ref: "Cliente",
+    },
     
   },
   {

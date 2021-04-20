@@ -12,6 +12,8 @@ import deliveryRoutes from "./routes/delivery.routes";
 import sucursalRoutes from "./routes/sucursal.routes";
 import domicilioRoutes from "./routes/domicilio.routes";
 import clienteRoutes from "./routes/cliente.routes";
+import barrioRoutes from "./routes/barrio.routes";
+import direccionRoutes from "./routes/direccion.routes";
 
 import { createRoles, createAdmin} from "./libs/initialSetup";
 
@@ -53,6 +55,8 @@ app.use("/api/delivery", deliveryRoutes);
 app.use("/api/sucursal", sucursalRoutes);
 app.use("/api/domicilio", domicilioRoutes);
 app.use("/api/cliente", clienteRoutes);
+app.use("/api/barrio", barrioRoutes);
+app.use("/api/direccion", direccionRoutes);
 
 
 export default app;

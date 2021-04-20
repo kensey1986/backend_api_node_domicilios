@@ -1,4 +1,5 @@
 import Product from "../models/Product";
+import axios from "axios";
 
 export const createProduct = async (req, res) => {
   const { name, category, price, imgURL } = req.body;
@@ -27,9 +28,17 @@ export const getProductById = async (req, res) => {
   res.status(200).json(product);
 };
 
-export const getProducts = async (req, res) => {
-  const products = await Product.find();
-  return res.json(products);
+export const getProductsByArticulo = async (req, res) => { 
+  const articulo = req.params.articulo;
+  console.log(articulo)
+  try {
+    console.log("pedira productos");
+    const { articulo } = req.params;
+    const resp = await axios.get("http://192.168.1.156:8080/articulos/"+`${articulo}`);
+    return res.status(200).send(resp.data);
+  } catch (error) {
+    console.log(error);
+  }
 };
 
 export const updateProductById = async (req, res) => {

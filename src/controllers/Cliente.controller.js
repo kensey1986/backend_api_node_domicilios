@@ -1,32 +1,32 @@
+import Barrio from "../models/Barrio";
 import Cliente from "../models/Cliente";
 
 export const createCliente = async (req, res) => {
- 
   try {
     const {
-      username,
       name,
       email,
-      sucursal,
       nacimiento,
       documento,
       direccion,
       barrio,
+      barrios,
       celular,
       fijo,
       apellido
     } = req.body;
+
+  
     // creating a new User
 
     const cliente = new Cliente({
-      username,
       name,
       email,
-      sucursal,
       nacimiento,
       documento,
       direccion,
       barrio,
+      barrios,
       celular,
       fijo,
       apellido
@@ -36,14 +36,13 @@ export const createCliente = async (req, res) => {
 
     return res.status(200).json({
       _id: savedCliente._id,
-      username: savedCliente.username,
-      sucursal: savedCliente.sucursal,
       name: savedCliente.name,
       email: savedCliente.email,
       nacimiento: savedCliente.nacimiento,
       documento: savedCliente.documento,
       direccion: savedCliente.direccion,
       barrio: savedCliente.barrio,
+      barrios: savedCliente.barrios,
       celular: savedCliente.celular,
       fijo: savedCliente.fijo,
       email: savedCliente.email,
@@ -77,6 +76,6 @@ export const getCliente = async (req, res) => {
 };
 
 export const getClientes = async (req, res) => {
-  const clientes = await Cliente.find();
+  const clientes = await Cliente.find().populate("barrio");
   return res.json(clientes);
 };
