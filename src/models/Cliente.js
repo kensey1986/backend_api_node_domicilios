@@ -5,9 +5,6 @@ const clienteSchema = new Schema(
     name: {
       type: String,
     },
-    apellido: {
-      type: String,
-    },
 
     documento: {
       type: String,
@@ -31,17 +28,18 @@ const clienteSchema = new Schema(
       type: Date,
     },
 
-    fijo: {
+    celular: {
       type: String,
     },
-
-    celular: {
+    telefono: {
       type: String,
     },
 
     email: {
       type: String,
     },
+    
+    
 
   },
   {

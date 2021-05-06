@@ -6,6 +6,12 @@ const barrioSchema = new Schema(
     name: {
       type: String,
     },
+    comuna: {
+      type: String,
+    },
+    estrato: {
+      type: String,
+    },
     
 
   },

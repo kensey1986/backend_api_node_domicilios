@@ -14,12 +14,13 @@ import domicilioRoutes from "./routes/domicilio.routes";
 import clienteRoutes from "./routes/cliente.routes";
 import barrioRoutes from "./routes/barrio.routes";
 import direccionRoutes from "./routes/direccion.routes";
+import estadoRoutes from "./routes/estado.routes";
 
-import { createRoles, createAdmin} from "./libs/initialSetup";
+
+import { createParamsInitials} from "./libs/initialSetup";
 
 const app = express();
-createRoles();
-createAdmin();
+createParamsInitials();
 
 // Settings
 app.set("pkg", pkg);
@@ -57,6 +58,8 @@ app.use("/api/domicilio", domicilioRoutes);
 app.use("/api/cliente", clienteRoutes);
 app.use("/api/barrio", barrioRoutes);
 app.use("/api/direccion", direccionRoutes);
+app.use("/api/estado", estadoRoutes);
+
 
 
 export default app;

@@ -30,9 +30,7 @@ export const getProductById = async (req, res) => {
 
 export const getProductsByArticulo = async (req, res) => { 
   const articulo = req.params.articulo;
-  console.log(articulo)
   try {
-    console.log("pedira productos");
     const { articulo } = req.params;
     const resp = await axios.get("http://192.168.1.156:8080/articulos/"+`${articulo}`);
     return res.status(200).send(resp.data);

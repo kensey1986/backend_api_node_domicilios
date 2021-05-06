@@ -13,10 +13,9 @@ export const createCliente = async (req, res) => {
       barrios,
       celular,
       fijo,
-      apellido
+      apellido,
     } = req.body;
 
-  
     // creating a new User
 
     const cliente = new Cliente({
@@ -29,7 +28,7 @@ export const createCliente = async (req, res) => {
       barrios,
       celular,
       fijo,
-      apellido
+      apellido,
     });
     // saving the new user
     const savedCliente = await cliente.save();
@@ -70,8 +69,24 @@ export const updateClienteById = async (req, res) => {
 
 export const getCliente = async (req, res) => {
   const clienteId = req.params.clienteId;
-  // const rolesFound = await Role.find({ name: { $in: roles } });
-  const cliente = await Cliente.findOne({ _id: { $in: clienteId } });
+  const cliente = await Cliente.findOne({ _id: { $in: clienteId } }).populate("barrio");
+  return res.json(cliente);
+};
+
+export const getClienteListDoc = async (req, res) => {
+  console.log("llego a buscar por documento")
+  const dato = req.params.dato;
+  const cliente = await Cliente.find({ documento: { $regex: dato } }).populate("barrio");
+  return res.json(cliente);
+};
+
+
+
+export const getClienteListCel = async (req, res) => {
+  console.log("llego a buscar por cel")
+  const dato = req.params.dato;
+  console.log(dato)
+  const cliente = await Cliente.find({ celular: { $regex: dato } }).populate("barrio");
   return res.json(cliente);
 };
 

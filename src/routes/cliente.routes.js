@@ -15,7 +15,11 @@ router.post(
 
 router.get("/", authJwt.verifyToken, clienteCtrl.getClientes);
 
+router.get("/:clienteId", authJwt.verifyToken, clienteCtrl.getCliente);
 
+router.get("/filtrardoc/:dato", [authJwt.verifyToken], clienteCtrl.getClienteListDoc);
+
+router.get("/filtrarcel/:dato", [authJwt.verifyToken], clienteCtrl.getClienteListCel);
 
 router.put(
   "/:clienteId",

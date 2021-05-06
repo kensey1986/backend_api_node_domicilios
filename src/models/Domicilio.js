@@ -2,7 +2,6 @@ import { Schema, model } from "mongoose";
 
 const domicilioSchema = new Schema(
   {
-    
     observacion: {
       type: String,
       required: true,
@@ -19,7 +18,20 @@ const domicilioSchema = new Schema(
       type: Schema.Types.ObjectId,
       ref: "Cliente",
     },
-    
+    items: [
+      {
+        type: Object
+      },
+    ],
+    direccion: {
+      type: String,
+      required: true,
+    },
+    estado: 
+      {
+        type: Schema.Types.ObjectId,
+        ref: "Estado",
+      },
   },
   {
     timestamps: true,

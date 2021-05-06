@@ -21,4 +21,10 @@ router.put(
   domicilioCtrl.updateDomicilioById
 );
 
+ router.put(
+   "/estado/:domicilioId",
+   [authJwt.verifyToken, authJwt.isAdmin],
+   domicilioCtrl.updateDomicilioByEstado
+ );
+
 export default router;
