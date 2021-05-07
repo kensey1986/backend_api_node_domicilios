@@ -5,7 +5,6 @@
   "main": "dist/index.js",
   "scripts": {
     "dev": "nodemon src/index.js --exec babel-node",
-    "build": "babel src --out-dir build",
     "start": "node build/index.js",
     "test": "jest"
   },
