@@ -16,10 +16,12 @@ import barrioRoutes from "./routes/barrio.routes";
 import direccionRoutes from "./routes/direccion.routes";
 import estadoRoutes from "./routes/estado.routes";
 
-
+//import { dbConnection } from './database/config';
 import { createParamsInitials} from "./libs/initialSetup";
 
+
 const app = express();
+//dbConnection();
 createParamsInitials();
 
 // Settings

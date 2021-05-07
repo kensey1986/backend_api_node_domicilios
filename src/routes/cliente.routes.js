@@ -21,6 +21,8 @@ router.get("/filtrardoc/:dato", [authJwt.verifyToken], clienteCtrl.getClienteLis
 
 router.get("/filtrarcel/:dato", [authJwt.verifyToken], clienteCtrl.getClienteListCel);
 
+router.get("/filtrarnom/:dato", [authJwt.verifyToken], clienteCtrl.getClienteListNom);
+
 router.put(
   "/:clienteId",
   [authJwt.verifyToken, authJwt.isAdmin],

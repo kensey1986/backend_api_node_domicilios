@@ -74,7 +74,6 @@ export const getCliente = async (req, res) => {
 };
 
 export const getClienteListDoc = async (req, res) => {
-  console.log("llego a buscar por documento")
   const dato = req.params.dato;
   const cliente = await Cliente.find({ documento: { $regex: dato } }).populate("barrio");
   return res.json(cliente);
@@ -83,10 +82,13 @@ export const getClienteListDoc = async (req, res) => {
 
 
 export const getClienteListCel = async (req, res) => {
-  console.log("llego a buscar por cel")
   const dato = req.params.dato;
-  console.log(dato)
   const cliente = await Cliente.find({ celular: { $regex: dato } }).populate("barrio");
+  return res.json(cliente);
+};
+export const getClienteListNom = async (req, res) => {
+  const dato = req.params.dato;
+  const cliente = await Cliente.find({ name: { $regex: dato } }).populate("barrio");
   return res.json(cliente);
 };
 

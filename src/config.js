@@ -2,7 +2,7 @@ import { config } from "dotenv";
 config();
 
 export default {
-  MONGODB_URI: process.env.MONGODB_URI || "mongodb://localhost/apicompany",
+  MONGODB_URI: process.env.DB_CNN_STRING || "mongodb://localhost/apicompany",
   PORT: process.env.PORT || 4000,
-  SECRET: 'products-api'
+  SECRET: 'products-api',
 };
