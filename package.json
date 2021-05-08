@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaztWeb/company-products-api.git"
+    "url": ""
   },
   "keywords": [],
-  "author": "Fazt",
+  "author": "kensey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FaztWeb/company-products-api/issues"
+    "url": "https://github.com/kensey/company-products-api/issues"
   },
-  "homepage": "https://github.com/FaztWeb/company-products-api#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/cli": "^7.11.5",
     "@babel/core": "^7.11.5",
