@@ -73,6 +73,7 @@ export const getCliente = async (req, res) => {
   return res.json(cliente);
 };
 
+
 export const getClienteListDoc = async (req, res) => {
   const dato = req.params.dato;
   const cliente = await Cliente.find({ documento: { $regex: dato } }).populate("barrio");
