@@ -1,0 +1,1702 @@
+[{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a1f"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "CALLEJON ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a20"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "CENTRO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a21"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "CONTENTO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a22"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "LA PLAYA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a23"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "LA SEXTA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a24"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "LATINO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a25"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "LLANO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a26"
+  },
+  "comuna": "COMUNA 1 ",
+  "name": "PARAMO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a27"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "ACUARELA ",
+  "estrato": "6"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a28"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "BALCONES DE SAN FRANCISCO ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a29"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "BLANCO ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a2a"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "BRISAS DEL PAMPLONITA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a2b"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "CAOBOS ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a2c"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "CEIBA I ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a2d"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "CEIBA II ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a2e"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "COLSAG ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a2f"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "COMERCIAL BOLIVAR ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a30"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "CONDADO DE CASTILLA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a31"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "EL ROSAL ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a32"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "GALICIA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a33"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "GOVIKA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a34"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "HACARITAMA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a35"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "HURAPANES ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a36"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LA CAPILLANA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a37"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LA CASTELLANA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a38"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LA CEIBA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a39"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LA ESPERANZA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a3a"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LA PRIMAVERA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a3b"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LA RINCONADA ",
+  "estrato": "6"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a3c"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LA RIVIERA ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a3d"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LAS ALMEYDAS ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a3e"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LIBERTADORES ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a3f"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LOS ACACIOS ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a40"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LOS PINOS ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a41"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "LOS PROCERES ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a42"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "MANOLO LEMUS ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a43"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "MIRADOR CAMPESTRE ",
+  "estrato": "6"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a44"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "PALMA REAL ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a45"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "PARQUE REAL ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a46"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "PARQUES RESIDENCIALES LOS LIBERTADORES ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a47"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "POPULAR ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a48"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "PRADOS CLUB ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a49"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "PRADOS I ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a4a"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "PRADOS II ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a4b"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "QUINTA BOSCH ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a4c"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "QUINTA ORIENTAL ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a4d"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "QUINTA VELEZ ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a4e"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "RINCON DE LOS PRADOS ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a4f"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "SAN ISIDRO  ",
+  "estrato": "6"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a50"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "SAN REMO ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a51"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "SANTA LUCIA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a52"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "SAYAGO ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a53"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "THE RIVERS COUNTRY ",
+  "estrato": "6"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a54"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "VALPARAISO SUIT ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a55"
+  },
+  "comuna": "COMUNA 2 ",
+  "name": "VILLA MARIA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a56"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "AGUAS CALIENTES ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a57"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "BELLAVISTA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a58"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "BETHEL ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a59"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "BOCONO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a5a"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "BOGOTA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a5b"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "LA CAROLINA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a5c"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "LA LIBERTAD ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a5d"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "LA UNION ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a5e"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "LAS MARGARITAS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a5f"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "LUIS PEREZ HERNANDEZ ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a60"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "MORELLY ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a61"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "POLICARPA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a62"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "SAN MATEO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a63"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "SANTA ANA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a64"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "URBANIZACION  SANTA ANA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a65"
+  },
+  "comuna": "COMUNA 3 ",
+  "name": "VALLE ESTHER ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a66"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "13 DE MARZO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a67"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "ALTO PAMPLONITA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a68"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "ANIVERSARIO I ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a69"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "ANIVERSARIO II ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a6a"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "BAJO PAMPLONITA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a6b"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "BOSQUES DEL PAMPLONITA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a6c"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "CAÑAFISTOLO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a6d"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "EL HIGUERON ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a6e"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "ESTACION DEL ESTE ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a6f"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "HELIOPOLIS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a70"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "LA ALAMEDA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a71"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "LA CAMPIÑA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a72"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "LA FLORIDA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a73"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "LA ISLA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a74"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "LA QUINTA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a75"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "NUEVA SANTA CLARA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a76"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "NUEVO ESCOBAL ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a77"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "PORTAL DEL ESCOBAL ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a78"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "PRADOS DEL ESTE ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a79"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "CONJUNTO PRADOS DEL ESTE ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a7a"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "SAN JOSE ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a7b"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "SAN LUIS ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a7c"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "SAN MARTIN I ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a7d"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "SAN MARTIN II ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a7e"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "SANTA TERESITA  ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a7f"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "SANTILLANA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a80"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "TERRANOVA  ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a81"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "TORCOROMA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a82"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "TORCOROMA SIGLO XXI ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a83"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "VIEJO ESCOBAL ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a84"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "VILLA CAMILA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a85"
+  },
+  "comuna": "COMUNA 4 ",
+  "name": "VILLAS DE SAN DIEGO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a86"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "ALCALA  ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a87"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "CIUDAD JARDIN ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a88"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "COLPET ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a89"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "EL BOSQUE ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a8a"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "GRATAMIRA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a8b"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "GUAIMARAL ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a8c"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "GUALANDAY ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a8d"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "JUANA RANGEL DE CUELLAR ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a8e"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "LA MAR ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a8f"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "LA  MARIA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a90"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "LA MERCED ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a91"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "LINARES ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a92"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "LLERAS RESTREPO ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a93"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "LOS ANGELES ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a94"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "NIZA ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a95"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "PARAISO ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a96"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "PESCADERO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a97"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "PORTACHUELO  ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a98"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "PRADOS DEL NORTE ",
+  "estrato": "4"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a99"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "SAN EDUARDO I Y II ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a9a"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "SANTA HELENA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a9b"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "SEVILLA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a9c"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "TASAJERO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a9d"
+  },
+  "comuna": "COMUNA 5 ",
+  "name": "ZULIMA I,II,III Y IV ETAPA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a9e"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "20 DE DICIEMBRE ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87a9f"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "6 DE MAYO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa0"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "8 DE DICIEMBRE ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa1"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "AEROPUERTO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa2"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "ALONSITO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa3"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "BRISAS DEL AEROPUERTO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa4"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "BRISAS DEL NORTE ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa5"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "BRISAS DEL PARAISO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa6"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CAMILO DAZA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa7"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CAÑO LIMON ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa8"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CARLOS GARCIA LOZADA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aa9"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CARLOS PIZARRO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aaa"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CECILIA CASTRO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aab"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CERRO DE LA CRUZ ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aac"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CERRO NORTE ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aad"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "COLINAS DE LA VICTORIA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aae"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "COLINAS DEL SALADO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aaf"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CONJ. CERRADO MOLINOS DEL NORTE ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab0"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "CUMBRES DEL NORTE ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab1"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "DIVINO NIÑO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab2"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "EL CERRO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab3"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "EL SALADO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab4"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "ESPERANZA MARTINEZ  ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab5"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "GARCIA HERREROS I Y II ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab6"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "LA CONCORDIA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab7"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "LA INSULA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab8"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "LIMONAR DEL NORTE ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ab9"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "LOS LAURELES ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aba"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "MARIA AUXILIADORA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87abb"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "MARIA PAZ ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87abc"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "MOLINOS DEL NORTE ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87abd"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "NUEVA COLOMBIA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87abe"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "OLGA TERESA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87abf"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "PANAMERICANO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac0"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "PORVENIR ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac1"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "RAFAEL NUÑEZ ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac2"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "SAN GERARDO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac3"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "SIMON BOLIVAR I ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac4"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "TOLEDO PLATA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac5"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "TRIGAL DEL NORTE ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac6"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "URBANIZACION LAS AMERICAS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac7"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "VILLA JULIANA  ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac8"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "VILLA NUEVA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ac9"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "VILLAS DEL TEJAR ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aca"
+  },
+  "comuna": "COMUNA 6 ",
+  "name": "VIRGILIO BARCO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87acb"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "BUENOS AIRES ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87acc"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "CHAPINERO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87acd"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "CLARET ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ace"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "COLOMBIA I Y II ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87acf"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "COMUNEROS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad0"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "EL PARAISO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad1"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "EL ROSAL DEL NORTE ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad2"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "LA FLORIDA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad3"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "LA HERMITA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad4"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "LA LAGUNA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad5"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "LA PRIMAVERA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad6"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "LAS AMERICAS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad7"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "MOTILONES ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad8"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "OSPINA PEREZ ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ad9"
+  },
+  "comuna": "COMUNA 7 ",
+  "name": "TUCUNARE ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ada"
+  },
+  "comuna": "COMUNA 8",
+  "name": "6 DE ENERO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87adb"
+  },
+  "comuna": "COMUNA 8",
+  "name": "7 DE AGOSTO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87adc"
+  },
+  "comuna": "COMUNA 8",
+  "name": "ANTONIA SANTOS  ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87add"
+  },
+  "comuna": "COMUNA 8",
+  "name": "ATALAYA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ade"
+  },
+  "comuna": "COMUNA 8",
+  "name": "ATALAYA I, II Y III ETAPA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87adf"
+  },
+  "comuna": "COMUNA 8",
+  "name": "BELISARIO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae0"
+  },
+  "comuna": "COMUNA 8",
+  "name": "CARLOS RAMIREZ PARIS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae1"
+  },
+  "comuna": "COMUNA 8",
+  "name": "CERRO PICO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae2"
+  },
+  "comuna": "COMUNA 8",
+  "name": "CUCUTA 75 ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae3"
+  },
+  "comuna": "COMUNA 8",
+  "name": "DOÑA NIDIA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae4"
+  },
+  "comuna": "COMUNA 8",
+  "name": "EL DESIERTO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae5"
+  },
+  "comuna": "COMUNA 8",
+  "name": "EL MINUTO DE DIOS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae6"
+  },
+  "comuna": "COMUNA 8",
+  "name": "EL PROGRESO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae7"
+  },
+  "comuna": "COMUNA 8",
+  "name": "EL RODEO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae8"
+  },
+  "comuna": "COMUNA 8",
+  "name": "JUAN RANGEL ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87ae9"
+  },
+  "comuna": "COMUNA 8",
+  "name": "LA CAROLINA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aea"
+  },
+  "comuna": "COMUNA 8",
+  "name": "LA VICTORIA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aeb"
+  },
+  "comuna": "COMUNA 8",
+  "name": "LOS ALMENDROS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aec"
+  },
+  "comuna": "COMUNA 8",
+  "name": "LOS OLIVOS ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aed"
+  },
+  "comuna": "COMUNA 8",
+  "name": "NIÑA CECI ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aee"
+  },
+  "comuna": "COMUNA 8",
+  "name": "NUEVO HORIZONTE ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aef"
+  },
+  "comuna": "COMUNA 8",
+  "name": "PALMERAS ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af0"
+  },
+  "comuna": "COMUNA 8",
+  "name": "VALLES DEL RODEO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af1"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "28 DE FEBRERO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af2"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "AISLANDIA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af3"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "ARNULFO BRICEÑO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af4"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "BARRIO NUEVO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af5"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "BELEN ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af6"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "BELEN DE UMBRIA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af7"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "CARORA  ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af8"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "CUNDINAMARCA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87af9"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "DIVINA PASTORA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87afa"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "EL REPOSO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87afb"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "FATIMA ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87afc"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "LAS COLINAS ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87afd"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "LOMA DE BOLIVAR  ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87afe"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "LOS ALPES ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87aff"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "PUEBLO NUEVO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b00"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "RUDESINDO SOTO ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b01"
+  },
+  "comuna": "COMUNA 9 ",
+  "name": "SAN MIGUEL ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b02"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "ALFONSO LOPEZ ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b03"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "CAMILO TORRES ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b04"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "CIRCUNVALACION ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b05"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "CUBEROS NIÑO ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b06"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "EL RESUMEN ",
+  "estrato": "5"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b07"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "GAITAN ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b08"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "GALAN ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b09"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "LA AURORA ",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b0a"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "LA CABRERA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b0b"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "LAS MALVINAS ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b0c"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "MAGDALENA ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b0d"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "PUENTE BARCO ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b0e"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "SAN JOSE ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b0f"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "SAN RAFAEL  ",
+  "estrato": "1"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b10"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "SANTANDER ",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6090c4bf42cb4636b4c87b11"
+  },
+  "comuna": "COMUNA 10 ",
+  "name": "SANTO DOMINGO ",
+  "estrato": "2"
+}]
