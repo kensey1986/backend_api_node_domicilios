@@ -32,7 +32,7 @@ export const getProductsByArticulo = async (req, res) => {
   const articulo = req.params.articulo;
   try {
     const { articulo } = req.params;
-    const resp = await axios.get("http://192.168.1.156:8080/articulos/"+`${articulo}`);
+    const resp = await axios.get("http://181.48.242.146/articulos/"+`${articulo}`);
     return res.status(200).send(resp.data);
   } catch (error) {
     console.log(error);
